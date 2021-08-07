@@ -38,10 +38,15 @@ As for the charts 🥧, if you like my A+ stats, then you can make your own by c
 
 
 EXPERIENCE
+
 Systems: helpdesk, networking
+
 Network equipment: Azure, Vcenter, Splunk, Sonarqube (codereviewer), AD, Fortinet, Cisco ASA, Sophos, PfSense, Opnsense, elasticsearch.
+
 Systems: excellent knowledge and experience in systems with any OS, 24-hour team shift worker
+
 Monitoring: installation, configuration, updating and management of monitoring programs, such as: AlienVault, Observium, Zabbix.
+
 Firewall: Firewall installation, configuration, update and management (nextgen) for the security perimeter, such as: Fortinet, Sophos, Cisco and PFSense.
 - Firewall maintenance: configuration, restore, backup, restore, update, Vlan creation, VPN, NAT / PAT / NAT-PAT, physical connections for perimeter security with Fortinet, Cisco, HP, Zyxel, Sophos.
 -Vulnerability Assessment and Penetration Testing: Use of the main suites (for pentesting) Parrots OS, Kali-Linux and use of the main tools such as nmap, metasploit, burpsuite, hydra, netcat, ophcrack, hashcat, aircrack-ng, kismet, cherrytree, dirb, openssl, sslchecker, sslstrip, megescan, dnsenum, masscan, nikto, OWASP zap, openvas, nessus, acunetix on infrastructure perimeters, web application and mobile app (on site and remotely).
@@ -63,14 +68,21 @@ Tenable University
 ISCI (International cybersecurity institute)
 --Certify cybersecurity
 SKILLS
+
 Languages: English Spanish
+
 Ability to use simpler and less scientific language to explain topics to users.
+
 Good self-management skills, aptitude for optimizing work process cycles and excellent teamwork skills.
 
 Microsoft packages: Word, Excel, Access and PowerPoint.
+
 Programming languages: Advanced C, Java, SQL, Python, Perl, Ruby.
+
 Scripting languages: Bash, Awk, Java-Script, Php, AWS.
+
 Markup languages: HTML, CSS.
+
 Operating systems: Windows, UNIX, IOS, Android
 
 
