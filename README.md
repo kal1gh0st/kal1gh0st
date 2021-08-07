@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. 
 Find me all around the web:
 
-![IMG_20210418_123156__01](https://user-images.githubusercontent.com/56889513/128597124-ee5e0a79-39b9-4307-955c-6592e51f5b20.jpg)
+![IMG_20210418_123156__01 (2)](https://user-images.githubusercontent.com/56889513/128597491-26d1c9e2-7e6b-40b2-ab4a-4b6d35192496.jpg)
 
 
 Some Fun Facts about me:
