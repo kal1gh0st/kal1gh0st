@@ -69,7 +69,7 @@ ISCI (International cybersecurity institute)
 --Certify cybersecurity
 SKILLS
 
-Languages: English Spanish
+Languages: English, Spanish
 
 Ability to use simpler and less scientific language to explain topics to users.
 
