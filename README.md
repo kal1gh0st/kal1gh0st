@@ -33,7 +33,8 @@ GitHub Stats
 If you haven't had a chance to check out GitHub Skyline yet, do it now. It's a 3D visualisation of your contribution graph. You can view the graphic, make a video, download the STL file, and even view it in Virtual Reality. You can also view the ASCII file and if you know the code combination, you can view the Konami code (コナミコマンド).
 
 
-          @kal1gh0st' 2021 GitHub Network          
+          @kal1gh0st' 2021 GitHub Network    
+          
 
    ✦   ✦     ✦    ✦   ✦✦  ✧✦     ✦ ✦ ✦     ✦ ✦  ✦ ✦ ✦     
    ✦ ✦     ✦  ✦   ✦    ✦ ✦  ✦ ✦  ✦   ✦     ✦      ✦   
@@ -41,6 +42,7 @@ If you haven't had a chance to check out GitHub Skyline yet, do it now. It's a 3
     
  
 
+https://www.linkedin.com/in/francesco-fedele-0702b614b/
 
 EXPERIENCE
 
