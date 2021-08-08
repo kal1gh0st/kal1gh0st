@@ -17,30 +17,8 @@ Here are some ideas to get you started:
 Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. 
 Find me all around the web:
 
-name: generate animation
-
-on:
-  # run automatically every 6 hours
-  schedule:
-    - cron: "0 */6 * * *" 
-  
-  # allows to manually run the job at any time
-  workflow_dispatch:
-  
-  # run on every push on the master branch
-  push:
-    branches:
-    - master
-    
-  
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      
       - name: generate github-contribution-grid-snake.svg
         uses: kal1gh0st/snk@master
         with:
@@ -49,6 +27,7 @@ jobs:
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+      
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
@@ -75,10 +54,6 @@ If you haven't had a chance to check out GitHub Skyline yet, do it now. It's a 3
 
           @kal1gh0st' 2021 GitHub Network    
           
-
-   ✦   ✦     ✦    ✦   ✦✦  ✧✦     ✦ ✦ ✦     ✦ ✦  ✦ ✦ ✦     
-   ✦ ✦     ✦  ✦   ✦    ✦ ✦  ✦ ✦  ✦   ✦     ✦      ✦   
-   ✦   ✦  ✦    ✦  ✦✦  ✦  ✧ ✦     ✦ ✦ ✦  ✦ ✧      ✧          
     
  
 
