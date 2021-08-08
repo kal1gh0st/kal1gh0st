@@ -14,12 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. 
+Find me all around the web:
+
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/56889513/128626209-9cf528cd-0576-41ad-a96d-622dab2e8030.gif)
 
 
-Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. 
-Find me all around the web:
+
 
 ![IMG_20210418_123156__01 (2)](https://user-images.githubusercontent.com/56889513/128597491-26d1c9e2-7e6b-40b2-ab4a-4b6d35192496.jpg)
 
@@ -33,9 +35,11 @@ If you haven't had a chance to check out GitHub Skyline yet, do it now. It's a 3
 
           @kal1gh0st' 2021 GitHub Network          
 
-     ✦            ✦    ✦    ✦ ▁               ✧  ✦   
-                         ▁    █        ▃          █  
-
+   ✦   ✦     ✦    ✦   ✦✦  ✧✦     ✦ ✦ ✦     ✦ ✦  ✦ ✦ ✦     
+   ✦ ✦     ✦  ✦   ✦    ✦ ✦  ✦ ✦  ✦   ✦     ✦      ✦   
+   ✦   ✦  ✦    ✦  ✦✦  ✦  ✧ ✦     ✦ ✦ ✦  ✦ ✧      ✧          
+    
+ 
 
 
 EXPERIENCE
