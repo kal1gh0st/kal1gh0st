@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/56889513/128626209-9cf528cd-0576-41ad-a96d-622dab2e8030.gif)
+
+
 Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. 
 Find me all around the web:
 
@@ -27,7 +30,6 @@ GitHub Stats
 
 If you haven't had a chance to check out GitHub Skyline yet, do it now. It's a 3D visualisation of your contribution graph. You can view the graphic, make a video, download the STL file, and even view it in Virtual Reality. You can also view the ASCII file and if you know the code combination, you can view the Konami code (コナミコマンド).
 
-As for the charts 🥧, if you like my A+ stats, then you can make your own by checking out the GitHub Readme Stats Repo and 🔥 GitHub Readme Streak Stats.
 
           @kal1gh0st' 2021 GitHub Network          
 
