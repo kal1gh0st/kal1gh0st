@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. 
 Find me all around the web:
 
+![github-contribution-grid-snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/56889513/128626209-9cf528cd-0576-41ad-a96d-622dab2e8030.gif)
 
+#![github-contribution-grid-snake](https://user-images.githubusercontent.com/56889513/128626209-9cf528cd-0576-41ad-a96d-622dab2e8030.gif)
 
 
 
