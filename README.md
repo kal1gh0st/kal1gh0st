@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. 
 Find me all around the web:
 
+https://www.linkedin.com/in/francesco-fedele-0702b614b/
+
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ![IMG_20210418_123156__01 (2)](https://user-images.githubusercontent.com/56889513/128597491-26d1c9e2-7e6b-40b2-ab4a-4b6d35192496.jpg)
@@ -34,7 +36,6 @@ If you haven't had a chance to check out GitHub Skyline yet, do it now. It's a 3
     
  
 
-https://www.linkedin.com/in/francesco-fedele-0702b614b/
 
 EXPERIENCE
 
