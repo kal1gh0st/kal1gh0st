@@ -35,6 +35,7 @@ If you haven't had a chance to check out GitHub Skyline yet, do it now. It's a 3
           
     
  
+![kal1gh0st](https://user-images.githubusercontent.com/56889513/129197718-a8604b43-a123-4da0-b74a-b87b8ebaadc8.gif)
 
 
 EXPERIENCE
@@ -54,6 +55,7 @@ Firewall: Firewall installation, configuration, update and management (nextgen) 
 activities.
 - Knowledge of DBMS environments such as ORACLE, MySQL, SQL Server, MariaDB, AWS, Azure.-Technical
 Assistance: Advice and technical support Helpdesk for private customers and companies
+
 Courses and certifications
 E-Learning Digital Connect
 - Ethical hacker and security manager
