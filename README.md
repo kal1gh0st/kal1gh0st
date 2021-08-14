@@ -27,6 +27,9 @@ https://www.linkedin.com/in/francesco-fedele-0702b614b/
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kal1gh0st&show_icons=true&theme=merko" />
 </a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kal1gh0st&layout=compact)](https://github.com/kal1gh0st/github-readme-stats" />
+</a>
 
 Some Fun Facts about me:
 
