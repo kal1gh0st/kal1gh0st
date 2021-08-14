@@ -47,7 +47,6 @@ If you haven't had a chance to check out GitHub Skyline yet, do it now. It's a 3
  
 ![kal1gh0st](https://user-images.githubusercontent.com/56889513/129197718-a8604b43-a123-4da0-b74a-b87b8ebaadc8.gif)
 
-
 EXPERIENCE
 
 Systems: helpdesk, networking
