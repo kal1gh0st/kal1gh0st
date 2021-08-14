@@ -19,6 +19,8 @@ Find me all around the web:
 
 https://www.linkedin.com/in/francesco-fedele-0702b614b/
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ![IMG_20210418_123156__01 (2)](https://user-images.githubusercontent.com/56889513/128597491-26d1c9e2-7e6b-40b2-ab4a-4b6d35192496.jpg)
