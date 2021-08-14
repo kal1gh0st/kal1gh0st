@@ -31,8 +31,6 @@ https://www.linkedin.com/in/francesco-fedele-0702b614b/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kal1gh0st&exclude_repo=github-readme-stats,kal1gh0st.github.io)](https://github.com/kal1gh0st/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kal1gh0st&hide=javascript,html)](https://github.com/kal1gh0st/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kal1gh0st&langs_count=8)](https://github.com/kal1gh0st/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kal1gh0st)](https://github.com/kal1gh0st/github-readme-stats)
