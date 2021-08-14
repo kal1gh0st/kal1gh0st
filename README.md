@@ -23,6 +23,7 @@ https://www.linkedin.com/in/francesco-fedele-0702b614b/
 
 ![IMG_20210418_123156__01 (2)](https://user-images.githubusercontent.com/56889513/128597491-26d1c9e2-7e6b-40b2-ab4a-4b6d35192496.jpg)
 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
@@ -30,7 +31,7 @@ https://www.linkedin.com/in/francesco-fedele-0702b614b/
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kal1gh0st&show_icons=true&theme=merko" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kal1gh0st&repo=github-readme-stats)](https://github.com/kal1gh0st/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kal1gh0st&repo=github-readme-stats https://github.com/kal1gh0st/github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kal1gh0st&langs_count=8)](https://github.com/kal1gh0st/github-readme-stats" />
