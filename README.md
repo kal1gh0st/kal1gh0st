@@ -29,6 +29,8 @@ https://www.linkedin.com/in/francesco-fedele-0702b614b/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kal1gh0st&langs_count=8)](https://github.com/kal1gh0st/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kal1gh0st&layout=compact)](https://github.com/kal1gh0st/github-readme-stats)
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -51,7 +53,7 @@ EXPERIENCE
 
 Systems: helpdesk, networking
 
-Network equipment: Azure, Vcenter, Splunk, Sonarqube (codereviewer), AD, Fortinet, Cisco ASA, Sophos, PfSense, Opnsense, elasticsearch.
+Network equipment: Azure, AWS Cloud, Vcenter, Splunk, Sonarqube (codereviewer), AD, Fortinet, Cisco ASA, Sophos, WatchGuard, PfSense, Opnsense, Elasticsearch.
 
 Systems: excellent knowledge and experience in systems with any OS, 24-hour team shift worker
 
@@ -78,6 +80,7 @@ Tenable University
 - Nessus Tenable certification
 ISCI (International cybersecurity institute)
 --Certify cybersecurity
+
 SKILLS
 
 Languages: English, Spanish
