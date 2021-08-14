@@ -30,13 +30,14 @@ https://www.linkedin.com/in/francesco-fedele-0702b614b/
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kal1gh0st&layout=compact)](https://github.com/kal1gh0st/github-readme-stats" />
 </a>
- <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kal1gh0st&langs_count=8 https://github.com/kal1gh0st/github-readme-stats" />
+
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="ttps://github-readme-stats.vercel.app/api/top-langs/?username=kal1gh0st&layout=compact)](https://github.com/kal1gh0st/github-readme-stats" />
 </a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kal1gh0st&repo=github-readme-stats)](https://github.com/kal1gh0st/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kal1gh0st&layout=compact)](https://github.com/kal1gh0st/github-readme-stats)
 
 Some Fun Facts about me:
 
