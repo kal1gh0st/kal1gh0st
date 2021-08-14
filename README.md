@@ -32,8 +32,6 @@ https://www.linkedin.com/in/francesco-fedele-0702b614b/
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kal1gh0st&layout=compact&langs_count=10)](https://github.com/kal1gh0st/github-readme-stats" />
 </a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
 
 Some Fun Facts about me:
 
