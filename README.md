@@ -54,39 +54,45 @@ If you haven't had a chance to check out GitHub Skyline yet, do it now. It's a 3
  
 ![kal1gh0st](https://user-images.githubusercontent.com/56889513/129197718-a8604b43-a123-4da0-b74a-b87b8ebaadc8.gif)
 
-#EXPERIENCE
+# EXPERIENCE
 
-Systems: helpdesk, networking
++ Systems: helpdesk, networking
 
-Network equipment: Azure, AWS Cloud, Vcenter, Splunk, Sonarqube (codereviewer), AD, Fortinet, Cisco ASA, Sophos, WatchGuard, PfSense, Opnsense, Elasticsearch.
++ Network equipment: Azure, AWS Cloud, Vcenter, Splunk, Sonarqube (codereviewer), AD, Fortinet, Cisco ASA, Sophos, WatchGuard, PfSense, Opnsense, Elasticsearch.
 
-Systems: excellent knowledge and experience in systems with any OS, 24-hour team shift worker
++ Systems: excellent knowledge and experience in systems with any OS, 24-hour team shift worker
 
-Monitoring: installation, configuration, updating and management of monitoring programs, such as: AlienVault, Observium, Zabbix.
++ Monitoring: installation, configuration, updating and management of monitoring programs, such as: AlienVault, Observium, Zabbix.
 
-Firewall: Firewall installation, configuration, update and management (nextgen) for the security perimeter, such as: Fortinet, Sophos, Cisco and PFSense.
-- Firewall maintenance: configuration, restore, backup, restore, update, Vlan creation, VPN, NAT / PAT / NAT-PAT, physical connections for perimeter security with Fortinet, Cisco, HP, Zyxel, Sophos.
--Vulnerability Assessment and Penetration Testing: Use of the main suites (for pentesting) Parrots OS, Kali-Linux and use of the main tools such as nmap, metasploit, burpsuite, hydra, netcat, ophcrack, hashcat, aircrack-ng, kismet, cherrytree, dirb, openssl, sslchecker, sslstrip, megescan, dnsenum, masscan, nikto, OWASP zap, openvas, nessus, acunetix on infrastructure perimeters, web application and mobile app (on site and remotely).
-- Creation of documentation and reporting relating to Vulnerability Assessment and Penetration test
++ Firewall: Firewall installation, configuration, update and management (nextgen) for the security perimeter, such as: Fortinet, Sophos, Cisco and PFSense.
+
++ Firewall maintenance: configuration, restore, backup, restore, update, Vlan creation, VPN, NAT / PAT / NAT-PAT, physical connections for perimeter security with Fortinet, Cisco, HP, Zyxel, Sophos.
+
++ Vulnerability Assessment and Penetration Testing: Use of the main suites (for pentesting) Parrots OS, Kali-Linux and use of the main tools such as nmap, metasploit, burpsuite, hydra, netcat, ophcrack, hashcat, aircrack-ng, kismet, cherrytree, dirb, openssl, sslchecker, sslstrip, megescan, dnsenum, masscan, nikto, OWASP zap, openvas, nessus, acunetix on infrastructure perimeters, web application and mobile app (on site and remotely).
+
++ Creation of documentation and reporting relating to Vulnerability Assessment and Penetration test
 activities.
-- Knowledge of DBMS environments such as ORACLE, MySQL, SQL Server, MariaDB, AWS, Azure.-Technical
+
++ Knowledge of DBMS environments such as ORACLE, MySQL, SQL Server, MariaDB, AWS, Azure.-Technical
 Assistance: Advice and technical support Helpdesk for private customers and companies
 
-# Courses and certifications
-E-Learning Digital Connect
--- Ethical hacker and security manager
-Fortinet
--- NSE1, NSE2, NSE3
-Cisco Networking Academy
--- Introduction to IT security and ISDN1-2-3
-E-LearnSecurity
--- EJPT (Junior Penetration Tester)
-Tenable University
---  Nessus Tenable certification
-ISCI (International cybersecurity institute)
--- Certify cybersecurity
 
-#SKILLS
+# Courses and certifications
+
+E-Learning Digital Connect
+- Ethical hacker and security manager
+Fortinet
+- NSE1, NSE2, NSE3
+Cisco Networking Academy
+- Introduction to IT security and ISDN1-2-3
+E-LearnSecurity
+- EJPT (Junior Penetration Tester)
+Tenable University
+- Nessus Tenable certification
+ISCI (International cybersecurity institute)
+- Certify cybersecurity
+
+# SKILLS
 
 Languages: English, Spanish
 
