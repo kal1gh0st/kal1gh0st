@@ -27,6 +27,9 @@ https://www.linkedin.com/in/francesco-fedele-0702b614b/
 
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
