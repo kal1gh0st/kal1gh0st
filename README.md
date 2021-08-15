@@ -54,7 +54,7 @@ If you haven't had a chance to check out GitHub Skyline yet, do it now. It's a 3
  
 ![kal1gh0st](https://user-images.githubusercontent.com/56889513/129197718-a8604b43-a123-4da0-b74a-b87b8ebaadc8.gif)
 
-EXPERIENCE
+#EXPERIENCE
 
 Systems: helpdesk, networking
 
@@ -72,21 +72,21 @@ activities.
 - Knowledge of DBMS environments such as ORACLE, MySQL, SQL Server, MariaDB, AWS, Azure.-Technical
 Assistance: Advice and technical support Helpdesk for private customers and companies
 
-Courses and certifications
+# Courses and certifications
 E-Learning Digital Connect
-- Ethical hacker and security manager
+-- Ethical hacker and security manager
 Fortinet
---NSE1, NSE2, NSE3
+-- NSE1, NSE2, NSE3
 Cisco Networking Academy
-- Introduction to IT security and ISDN1-2-3
+-- Introduction to IT security and ISDN1-2-3
 E-LearnSecurity
---EJPT (Junior Penetration Tester)
+-- EJPT (Junior Penetration Tester)
 Tenable University
-- Nessus Tenable certification
+--  Nessus Tenable certification
 ISCI (International cybersecurity institute)
---Certify cybersecurity
+-- Certify cybersecurity
 
-SKILLS
+#SKILLS
 
 Languages: English, Spanish
 
