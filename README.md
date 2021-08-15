@@ -33,8 +33,6 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 
-
-
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kal1gh0st&show_icons=true&theme=merko" />
 </a>
