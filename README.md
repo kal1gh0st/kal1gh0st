@@ -26,20 +26,12 @@ https://www.linkedin.com/in/francesco-fedele-0702b614b/
 ![IMG_20210418_123156__01 (2)](https://user-images.githubusercontent.com/56889513/129449480-596a6f6a-2481-4477-9466-367392881d01.png)
 
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kal1gh0st&show_icons=true&theme=merko" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kal1gh0st&layout=compact&langs_count=10)](https://github.com/kal1gh0st/github-readme-stats" />
 </a>
-
 
 Some Fun Facts about me:
 
