@@ -17,6 +17,20 @@ Here are some ideas to get you started:
 Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. 
 Find me all around the web:
 
+# It's a me, ! 👋
+### Francesco
+<a href="https://twitter.com/">
+  <img align="left" alt="Gioxx's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/francesco-fedele-0702b614b/">
+  <img align="left" alt="Gioxx's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.reddit.com/user/Kal1gh0st/">
+  <img alt="Gioxx's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<br /><br />
+
+
 https://www.linkedin.com/in/francesco-fedele-0702b614b/
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
