@@ -54,7 +54,7 @@ If you haven't had a chance to check out GitHub Skyline yet, do it now. It's a 3
           @kal1gh0st' 2021 GitHub Network    
           
     
- https://themitigators.com/wp-content/uploads/2018/11/tenor.gif
+<img src="https://themitigators.com/wp-content/uploads/2018/11/tenor.gif" alt="https://themitigators.com/wp-content/uploads/2018/11/tenor.gif"></img>
 
 # Experience
 
