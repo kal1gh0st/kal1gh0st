@@ -1,8 +1,6 @@
 # Hi there 👋
-
 <!--
 **kal1gh0st/kal1gh0st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,7 +14,6 @@ Here are some ideas to get you started:
 -->
 Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. 
 Find me all around the web:
-
 ## It's a me, Kal1gh0st! 👋
 ### Francesco Fedele
 <a href="https://twitter.com/">
