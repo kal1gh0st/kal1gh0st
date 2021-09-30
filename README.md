@@ -17,6 +17,7 @@ Find me all around the web:
 ## It's a me, Kal1gh0st! 👋
 ### Francesco Fedele
 <a href="https://twitter.com/">
+  <font color="green"> Some green text </font>
   <img align="left" alt="Fra Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/francesco-fedele-0702b614b/">
@@ -26,7 +27,6 @@ Find me all around the web:
   <img alt="Fra Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 <br /><br />
-<span style="color: green"> Some green text </span>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
