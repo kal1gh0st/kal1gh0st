@@ -16,8 +16,6 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 Find me all around the web:
 ## It's a me, Kal1gh0st! 👋
 ### Francesco Fedele
-<a href="https://twitter.com/">
-  <font color="green"> Some green text </font>
   <img align="left" alt="Fra Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/francesco-fedele-0702b614b/">
