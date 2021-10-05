@@ -26,7 +26,9 @@ Find me all around the web:
 </a>
 <br /><br />
 
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
