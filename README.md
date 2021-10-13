@@ -21,10 +21,6 @@ Find me all around the web:
 
 <img align="right" alt="Octocat" height="130px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" >
 
-:page_facing_up: Ask me about front-end development, MERN stack, and coding resources :v:
-
-:new_moon_with_face: Fun fact: I am more productive at night than during the day
-
 :briefcase: I use [Atom][1] :atom:
 
 [1]: https://atom.io
