@@ -52,15 +52,6 @@ Find me all around the web:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
 </p>
 
-## Contact me :raised_hand_with_fingers_splayed:
-<p align="center">
-    <img align="center" src="https://metrics.lecoq.io/milksense?template=classic&isocalendar=1&languages=1&lines=1&notable=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&notable.repositories=false&config.timezone=Asia%2FShanghai&base.metadata=0" alt="Metrics" />
-</p>
-
-<p align="center">
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilksense&count_bg=%23313131&title_bg=%23313131&icon=&icon_color=%23000000&title=views&edge_flat=false"/></a>
-</p>
-
 ### Francesco Fedele
   <img align="left" alt="Fra Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -87,6 +78,15 @@ Find me all around the web:
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kal1gh0st&layout=compact&langs_count=10)](https://github.com/kal1gh0st/github-readme-stats" />
 </a>
+
+## Contact me :raised_hand_with_fingers_splayed:
+<p align="center">
+    <img align="center" src="https://metrics.lecoq.io/milksense?template=classic&isocalendar=1&languages=1&lines=1&notable=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&notable.repositories=false&config.timezone=Asia%2FShanghai&base.metadata=0" alt="Metrics" />
+</p>
+
+<p align="center">
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilksense&count_bg=%23313131&title_bg=%23313131&icon=&icon_color=%23000000&title=views&edge_flat=false"/></a>
+</p>
 
 Some Fun Facts about me:
 
