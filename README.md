@@ -54,15 +54,6 @@ Find me all around the web:
 
 
 ### Francesco Fedele    
-<img align="left" alt="Fra Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-
-<a href="https://www.linkedin.com/in/francesco-fedele-0702b614b/"> 
-    <img align="left" alt="Fra LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-
-<a href="https://www.reddit.com/user/Kal1gh0st/"> 
-    <img alt="Fra Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<br /><br />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
@@ -81,6 +72,16 @@ Find me all around the web:
 </a>
 
 ## Contact me :raised_hand_with_fingers_splayed:
+<img align="left" alt="Fra Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+
+<a href="https://www.linkedin.com/in/francesco-fedele-0702b614b/"> 
+    <img align="left" alt="Fra LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+
+<a href="https://www.reddit.com/user/Kal1gh0st/"> 
+    <img alt="Fra Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<br /><br />
+
 <p align="center">
     <img align="center" src="https://metrics.lecoq.io/milksense?template=classic&isocalendar=1&languages=1&lines=1&notable=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&notable.repositories=false&config.timezone=Asia%2FShanghai&base.metadata=0" alt="Metrics" />
 </p>
