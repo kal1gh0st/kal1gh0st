@@ -53,13 +53,8 @@ Find me all around the web:
 </p>
 
 
-### Francesco Fedele  <img align="center" alt="Fra Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/francesco-fedele-0702b614b/">
-  <img align="center" alt="Fra LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.reddit.com/user/Kal1gh0st/">
-  <img alt="Fra Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+### Francesco Fedele    <img align="center" alt="Fra Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a> <a href="https://www.linkedin.com/in/francesco-fedele-0702b614b/"> <img align="center" alt="Fra LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> <a href="https://www.reddit.com/user/Kal1gh0st/"> <img alt="Fra Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 <br /><br />
 
