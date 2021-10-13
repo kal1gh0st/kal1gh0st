@@ -29,6 +29,15 @@ Find me all around the web:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
+💼 I use Atom :atom:
+Tech Stack 💻
+
+typescript javascript V nativescript electron react redux express mongodb babeljs webpack d3js d3js php docker mysql nodejs git handlebars html5 css3 bootstrap jquery sass materialui npm
+Contact me 🖐️
+
+Contact with me Metrics
+
+
 
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
