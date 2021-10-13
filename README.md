@@ -16,9 +16,6 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 Find me all around the web:
 ## It's a me, Kal1gh0st! 👋
 
-
-## Hi, I am full-stack developer
-
 <img align="right" alt="Octocat" height="130px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" >
 
 :briefcase: I use [Atom][1] :atom:
