@@ -70,6 +70,7 @@ Systems:
 
 Network equipment: 
 + Azure, AWS Cloud, Docker, Vcenter, Splunk, Sonarqube (codereviewer), AD, Fortinet, Cisco ASA, Sophos, WatchGuard, PfSense, Opnsense, Elasticsearch.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="azure" width="40" height="40"/>
