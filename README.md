@@ -115,10 +115,6 @@ Find me all around the web:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40/>
 </p>
 
-                                                                                                                                      
-### Francesco Fedele    
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
 
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
