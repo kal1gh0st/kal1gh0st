@@ -73,11 +73,11 @@ Network equipment:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="azure" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="60" height="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="60" height="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="jira" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="azure" width="70" height="70"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="70" height="70"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="70" height="70"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="jira" width="70" height="70"/>
     </p>
 
 Systems: 
