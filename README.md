@@ -149,12 +149,12 @@ Good self-management skills, aptitude for optimizing work process cycles and exc
 
 Microsoft packages: Word, Excel, Access and PowerPoint.
 
-Programming languages: Advanced C, Java, SQL, Python, Perl, Ruby.
+Programming languages: Advanced C, C++, C#, go, Swift, YAML, XML, Java, SQL, Python, Perl, Ruby, Bash.
 
 Scripting languages: Bash, Awk, Java-Script, Php, AWS.
 
 Markup languages: HTML, CSS.
 
-Operating systems: Windows, UNIX, IOS, Android
+Operating systems: Windows, Linux, UNIX, FreeBSD, IOS, Android
 
 
