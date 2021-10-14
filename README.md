@@ -176,6 +176,9 @@ Microsoft packages: Word, Excel, Access and PowerPoint.
 Programming languages: Advanced C, C++, C#, go, Swift, YAML, XML, Java, SQL, Python, Perl, Ruby, Bash.
 
 Scripting languages: Bash, Awk, Java-Script, Php, AWS.
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="20" height="20"/>
+    </p>
 
 Markup languages: HTML, CSS.
 
