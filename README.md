@@ -52,11 +52,9 @@ Find me all around the web:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
 </p>
 
-
 ### Francesco Fedele    
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
 
 
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
@@ -72,6 +70,7 @@ Find me all around the web:
 </a>
 
 ## Contact me :raised_hand_with_fingers_splayed:
+## Francesco Fedele   
 <img align="left" alt="Fra Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 
 <a href="https://www.linkedin.com/in/francesco-fedele-0702b614b/"> 
