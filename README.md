@@ -17,10 +17,7 @@ Find me all around the web:
 ## It's a me, Kal1gh0st! 👋
 ## Tech Stack :computer:
 <p align="left">
-    :briefcase: I use [Atom][1] :atom:
-
-    [1]: https://atom.io
-
+    :briefcase: I use
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" alt="ssh" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" alt="putty" width="40" height="40"/> 
