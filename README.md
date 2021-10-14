@@ -19,7 +19,8 @@ Find me all around the web:
 <p align="left">
     :briefcase: I use [Atom][1] :atom:
 
-[1]: https://atom.io
+    [1]: https://atom.io
+
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" alt="ssh" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" alt="putty" width="40" height="40"/> 
@@ -28,8 +29,6 @@ Find me all around the web:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>
     <img align="right" alt="Octocat" height="130px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" >
-
-
     </p>
     
                                                                                                                                    
