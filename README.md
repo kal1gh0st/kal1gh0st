@@ -107,7 +107,7 @@ Find me all around the web:
 <a href="https://www.linkedin.com/in/francesco-fedele-0702b614b/"> 
     <img align="left" alt="Fra LinkedIN" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 
-a href="https://www.reddit.com/user/Kal1gh0st/"> 
+<a href="https://www.reddit.com/user/Kal1gh0st/"> 
     <img alt="Fra Reddit" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 <br /><br />
