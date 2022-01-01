@@ -33,8 +33,6 @@ Find me all around the web:
 
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-<a href="https://skyline.github.com/br3ndonland/2020" title="2020 GitHub Skyline"><img src="https://github.com/kal1gh0st/kal1gh0st/blob/main/kal1gh0st-2021.1.png" alt="2020 GitHub Skyline" width="50%" /></a>
-
 ![IMG_20210418_123156__01 (2)](https://user-images.githubusercontent.com/56889513/129449480-596a6f6a-2481-4477-9466-367392881d01.png)
 
 
