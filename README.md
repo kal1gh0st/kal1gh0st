@@ -35,7 +35,8 @@ Find me all around the web:
 
 <img src="https://github.com/kal1gh0st/kal1gh0st/blob/main/Animation1.gif" width="500">
 
-<img width="1254" height="1254" alt="ChatGPT Image 6 lug 2026, 20_29_21" src="https://github.com/user-attachments/assets/7f35b629-6636-49e3-85c1-2422ce55fb86" />
+<img width="960" height="540" alt="ChatGPT Image 6 lug 2026, 20_42_57 - Copia" src="https://github.com/user-attachments/assets/da1aa225-c9fe-4d0b-a356-752e8a208bf3" />
+
 
 ![IMG_20210418_123156__01 (2)](https://user-images.githubusercontent.com/56889513/129449480-596a6f6a-2481-4477-9466-367392881d01.png)
 
